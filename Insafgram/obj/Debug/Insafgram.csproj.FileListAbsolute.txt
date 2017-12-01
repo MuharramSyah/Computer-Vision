@@ -1,0 +1,158 @@
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\bin\Debug\Insafgram.exe.config
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\bin\Debug\Insafgram.exe
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\bin\Debug\Insafgram.pdb
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\obj\Debug\Insafgram.csprojResolveAssemblyReference.cache
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\obj\Debug\Insafgram.Form1.resources
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\obj\Debug\Insafgram.Properties.Resources.resources
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\obj\Debug\Insafgram.csproj.GenerateResource.Cache
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\obj\Debug\Insafgram.exe
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\obj\Debug\Insafgram.pdb
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\obj\Debug\Insafgram.register.resources
+C:\Users\Utama\Desktop\Project Muharram\Insafgram\Insafgram\obj\Debug\Insafgram.csproj.ResolveComReference.cache
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Insafgram.exe.config
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.csproj.ResolveComReference.cache
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.exe
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.pdb
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Database1.mdf
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Database1_log.ldf
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Insafgram.exe
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Insafgram.pdb
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.csprojResolveAssemblyReference.cache
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.Form1.resources
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.Properties.Resources.resources
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.register.resources
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.csproj.GenerateResource.Cache
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\cudart32_40_17.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\cufft32_40_17.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\cvextern.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\cvextern_gpu.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2008.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\npp32_40_17.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_calib3d231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_contrib231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_core231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_features2d231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_ffmpeg.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_flann231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_gpu231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_highgui231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_imgproc231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_legacy231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_ml231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_objdetect231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_video231.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.GPU.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.ML.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.OCR.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.UI.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.Util.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\ZedGraph.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.GPU.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.ML.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.OCR.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.UI.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.Util.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.mainMenu.resources
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.filter.resources
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_eye.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_eye_tree_eyeglasses.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_frontalface_alt.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_frontalface_alt2.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_frontalface_alt_tree.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_frontalface_default.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_fullbody.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_lefteye_2splits.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_lowerbody.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_eyepair_big.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_eyepair_small.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_lefteye.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_mouth.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_nose.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_righteye.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_upperbody.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_profileface.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_righteye_2splits.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_upperbody.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Core.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Core.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.capture.resources
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Insafgram.exe.config
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.csproj.ResolveComReference.cache
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.exe
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.pdb
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\cudart32_40_17.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\cufft32_40_17.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\cvextern.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\cvextern_gpu.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Database1.mdf
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Database1_log.ldf
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2008.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_eye.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_eye_tree_eyeglasses.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_frontalface_alt.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_frontalface_alt2.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_frontalface_alt_tree.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_frontalface_default.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_fullbody.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_lefteye_2splits.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_lowerbody.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_eyepair_big.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_eyepair_small.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_lefteye.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_mouth.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_nose.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_righteye.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_mcs_upperbody.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_profileface.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_righteye_2splits.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\haarcascade_upperbody.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\npp32_40_17.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_calib3d231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_contrib231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_core231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_features2d231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_ffmpeg.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_flann231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_gpu231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_highgui231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_imgproc231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_legacy231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_ml231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_objdetect231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\opencv_video231.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Insafgram.exe
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Insafgram.pdb
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Core.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Platform.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\ZedGraph.dll
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.GPU.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.ML.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.OCR.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.CV.UI.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Emgu.Util.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Core.pdb
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Core.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Platform.pdb
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Xaml.pdb
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.csprojResolveAssemblyReference.cache
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.capture.resources
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.filter.resources
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.Form1.resources
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.mainMenu.resources
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.Properties.Resources.resources
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.register.resources
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.csproj.GenerateResource.Cache
+G:\Kuliah\Semester 4\Computer Vision\Project\Insafgram\Insafgram\obj\Debug\Insafgram.VideoForm.resources
